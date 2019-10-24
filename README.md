@@ -1,3 +1,6 @@
+中文：
+https://www.toutiao.com/a6750218870272819725/?tt_from=copy_link&utm_campaign=client_share&timestamp=1571738082&app=news_article_social&utm_source=copy_link&utm_medium=toutiao_ios&req_id=201910221754410100140400831D009B17&group_id=6750218870272819725
+
 ## **distribution-is-all-you-need**
 
 **distribution-is-all-you-need** is the basic distribution probability tutorial for **most common distribution focused on Deep learning** using python library.
